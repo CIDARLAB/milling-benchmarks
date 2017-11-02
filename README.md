@@ -1,4 +1,4 @@
-# Test Devices for Desktop Mill Characterization
+# Standard Test Devices for Desktop CNC Mill Characterization
 
 This repository contains openSCAD files for parametric devices used to characterize CNC mills. The following devivces are available:
 1. X-Y plane test for positive features
