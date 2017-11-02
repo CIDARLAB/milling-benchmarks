@@ -13,10 +13,4 @@ This repository contains openSCAD files for parametric devices used to character
 
 Must use OpenSCAD version 2016.11.21 or later.
 
-
-
-- r
-- k
-- s
-
-[text](http://google.com)
+[Download OpenScad here!](http://www.openscad.org/)
