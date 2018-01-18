@@ -1,6 +1,6 @@
 # This repository is made available for the the following publication
 
-- Accessible Microfluidic Fabrication Technique Leveraging Low-Cost, Desktop Micromills and an Open-Source Software Framework (A. Lashkaripour et al., 2017)
+- Desktop Micromilled Microfluidics, MICROFLUIDICS and NANOFLUIDICS journal. (A. Lashkaripour et al., 2018)
 
 # Standard Test Devices for Desktop CNC Mill Characterization
 
