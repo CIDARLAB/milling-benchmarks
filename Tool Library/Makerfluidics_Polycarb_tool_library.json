@@ -1,0 +1,779 @@
+[
+    {
+        "conductive": "no",
+        "flutes": "0",
+        "group": "Endmill",
+        "name": "1/8\" Polycarb MF",
+        "params": [
+            {
+                "millVersion": "V1",
+                "pass_depth": 0.25,
+                "spindle_speed": 12000,
+                "stepover": 0.14999999999999999,
+                "xy_feed_rate": 360,
+                "z_feed_rate": 46
+            },
+            {
+                "millVersion": "V2",
+                "pass_depth": 0.25,
+                "spindle_speed": 12000,
+                "stepover": 0.14999999999999999,
+                "xy_feed_rate": 360,
+                "z_feed_rate": 46
+            },
+            {
+                "millVersion": "Pro",
+                "pass_depth": 0.25,
+                "spindle_speed": 12000,
+                "stepover": 0.14999999999999999,
+                "xy_feed_rate": 360,
+                "z_feed_rate": 46
+            }
+        ],
+        "profile": [
+            [
+                3.1749999999999998,
+                36.5,
+                0,
+                0
+            ],
+            [
+                3.1749999999999998,
+                2.5874999999999999,
+                0,
+                -1
+            ],
+            [
+                3.1699999999999999,
+                1.5874999999999999,
+                0,
+                1
+            ],
+            [
+                3.1699999999999999,
+                0,
+                0,
+                1
+            ]
+        ],
+        "uuid": "{adebe20a-7b89-43fb-a8f9-4c2f2408522b}"
+    },
+    {
+        "conductive": "no",
+        "flutes": "0",
+        "group": "Endmill",
+        "name": "1/16\" Polycarb MF",
+        "params": [
+            {
+                "millVersion": "V1",
+                "pass_depth": 0.25,
+                "spindle_speed": 12000,
+                "stepover": 0.14999999999999999,
+                "xy_feed_rate": 360,
+                "z_feed_rate": 46
+            },
+            {
+                "millVersion": "V2",
+                "pass_depth": 0.25,
+                "spindle_speed": 12000,
+                "stepover": 0.14999999999999999,
+                "xy_feed_rate": 360,
+                "z_feed_rate": 46
+            },
+            {
+                "millVersion": "Pro",
+                "pass_depth": 0.25,
+                "spindle_speed": 12000,
+                "stepover": 0.14999999999999999,
+                "xy_feed_rate": 360,
+                "z_feed_rate": 46
+            }
+        ],
+        "profile": [
+            [
+                3.1749999999999998,
+                36.5,
+                0,
+                0
+            ],
+            [
+                3.1749999999999998,
+                2.5874999999999999,
+                0,
+                -1
+            ],
+            [
+                1.5900000000000001,
+                1.5874999999999999,
+                0,
+                1
+            ],
+            [
+                1.5900000000000001,
+                0,
+                0,
+                1
+            ]
+        ],
+        "uuid": "{45ec51d9-fc7f-4a54-9b25-4e09c3518a58}"
+    },
+    {
+        "conductive": "no",
+        "flutes": "0",
+        "group": "Endmill",
+        "name": "1/32\" Polycarb MF",
+        "params": [
+            {
+                "millVersion": "V1",
+                "pass_depth": 0.25,
+                "spindle_speed": 12000,
+                "stepover": 0.14999999999999999,
+                "xy_feed_rate": 600,
+                "z_feed_rate": 40
+            },
+            {
+                "millVersion": "V2",
+                "pass_depth": 0.25,
+                "spindle_speed": 12000,
+                "stepover": 0.14999999999999999,
+                "xy_feed_rate": 600,
+                "z_feed_rate": 40
+            },
+            {
+                "millVersion": "Pro",
+                "pass_depth": 0.25,
+                "spindle_speed": 12000,
+                "stepover": 0.14999999999999999,
+                "xy_feed_rate": 600,
+                "z_feed_rate": 40
+            }
+        ],
+        "profile": [
+            [
+                3.1749999999999998,
+                36.5,
+                0,
+                0
+            ],
+            [
+                3.1749999999999998,
+                2.5874999999999999,
+                0,
+                -1
+            ],
+            [
+                0.79000000000000004,
+                1.5874999999999999,
+                0,
+                1
+            ],
+            [
+                0.79000000000000004,
+                0,
+                0,
+                1
+            ]
+        ],
+        "uuid": "{8aabf141-ac01-46bc-b387-ffbe806c4740}"
+    },
+    {
+        "conductive": "no",
+        "flutes": "0",
+        "group": "Endmill",
+        "name": "1/64\" Polycarb MF",
+        "params": [
+            {
+                "millVersion": "V1",
+                "pass_depth": 0.25,
+                "spindle_speed": 12000,
+                "stepover": 0.14999999999999999,
+                "xy_feed_rate": 500,
+                "z_feed_rate": 36
+            },
+            {
+                "millVersion": "V2",
+                "pass_depth": 0.25,
+                "spindle_speed": 12000,
+                "stepover": 0.14999999999999999,
+                "xy_feed_rate": 500,
+                "z_feed_rate": 36
+            },
+            {
+                "millVersion": "Pro",
+                "pass_depth": 0.25,
+                "spindle_speed": 12000,
+                "stepover": 0.14999999999999999,
+                "xy_feed_rate": 500,
+                "z_feed_rate": 36
+            }
+        ],
+        "profile": [
+            [
+                3.1749999999999998,
+                36.5,
+                0,
+                0
+            ],
+            [
+                3.1749999999999998,
+                2.5874999999999999,
+                0,
+                -1
+            ],
+            [
+                0.40000000000000002,
+                1.5874999999999999,
+                0,
+                1
+            ],
+            [
+                0.40000000000000002,
+                0,
+                0,
+                1
+            ]
+        ],
+        "uuid": "{7a78ac34-2486-405e-a40c-8b3aa0f5f188}"
+    },
+    {
+        "conductive": "no",
+        "flutes": "0",
+        "group": "Endmill",
+        "name": "1/100\" Polycarb MF",
+        "params": [
+            {
+                "millVersion": "V1",
+                "pass_depth": 0.14999999999999999,
+                "spindle_speed": 14000,
+                "stepover": 0.14999999999999999,
+                "xy_feed_rate": 300,
+                "z_feed_rate": 16
+            },
+            {
+                "millVersion": "V2",
+                "pass_depth": 0.14999999999999999,
+                "spindle_speed": 14000,
+                "stepover": 0.14999999999999999,
+                "xy_feed_rate": 300,
+                "z_feed_rate": 16
+            },
+            {
+                "millVersion": "Pro",
+                "pass_depth": 0.14999999999999999,
+                "spindle_speed": 14000,
+                "stepover": 0.14999999999999999,
+                "xy_feed_rate": 300,
+                "z_feed_rate": 16
+            }
+        ],
+        "profile": [
+            [
+                3.1749999999999998,
+                36.5,
+                0,
+                0
+            ],
+            [
+                3.1749999999999998,
+                2.5874999999999999,
+                0,
+                -1
+            ],
+            [
+                0.25,
+                1.5874999999999999,
+                0,
+                1
+            ],
+            [
+                0.25,
+                0,
+                0,
+                1
+            ]
+        ],
+        "uuid": "{7ddc8622-6a71-4dc2-ba2c-ce4a57ad0911}"
+    },
+    {
+        "conductive": "no",
+        "flutes": "0",
+        "group": "Endmill",
+        "name": "15um Polycarb MF",
+        "params": [
+            {
+                "millVersion": "V1",
+                "pass_depth": 0.01,
+                "spindle_speed": 20000,
+                "stepover": 0.14999999999999999,
+                "xy_feed_rate": 12,
+                "z_feed_rate": 0.10000000000000001
+            },
+            {
+                "millVersion": "V2",
+                "pass_depth": 0.01,
+                "spindle_speed": 20000,
+                "stepover": 0.14999999999999999,
+                "xy_feed_rate": 12,
+                "z_feed_rate": 0.10000000000000001
+            },
+            {
+                "millVersion": "Pro",
+                "pass_depth": 0.01,
+                "spindle_speed": 20000,
+                "stepover": 0.14999999999999999,
+                "xy_feed_rate": 12,
+                "z_feed_rate": 0.10000000000000001
+            }
+        ],
+        "profile": [
+            [
+                3.1749999999999998,
+                36.5,
+                0,
+                0
+            ],
+            [
+                3.1749999999999998,
+                2.5874999999999999,
+                0,
+                -1
+            ],
+            [
+                0.02,
+                1.5874999999999999,
+                0,
+                1
+            ],
+            [
+                0.02,
+                0,
+                0,
+                1
+            ]
+        ],
+        "uuid": "{7af7200b-9391-452e-9a93-2f53c06df589}"
+    },
+    {
+        "conductive": "no",
+        "flutes": "0",
+        "group": "Endmill",
+        "name": "25um Polycarb MF",
+        "params": [
+            {
+                "millVersion": "V1",
+                "pass_depth": 0.01,
+                "spindle_speed": 19000,
+                "stepover": 0.14999999999999999,
+                "xy_feed_rate": 19,
+                "z_feed_rate": 0.5
+            },
+            {
+                "millVersion": "V2",
+                "pass_depth": 0.01,
+                "spindle_speed": 19000,
+                "stepover": 0.14999999999999999,
+                "xy_feed_rate": 19,
+                "z_feed_rate": 0.5
+            },
+            {
+                "millVersion": "Pro",
+                "pass_depth": 0.01,
+                "spindle_speed": 19000,
+                "stepover": 0.14999999999999999,
+                "xy_feed_rate": 19,
+                "z_feed_rate": 0.5
+            }
+        ],
+        "profile": [
+            [
+                3.1749999999999998,
+                36.5,
+                0,
+                0
+            ],
+            [
+                3.1749999999999998,
+                2.5874999999999999,
+                0,
+                -1
+            ],
+            [
+                0.029999999999999999,
+                1.5874999999999999,
+                0,
+                1
+            ],
+            [
+                0.029999999999999999,
+                0,
+                0,
+                1
+            ]
+        ],
+        "uuid": "{3d5ff084-56e8-4df2-ab09-217c1ed92475}"
+    },
+    {
+        "conductive": "no",
+        "flutes": "0",
+        "group": "Endmill",
+        "name": "50um Polycarb MF",
+        "params": [
+            {
+                "millVersion": "V1",
+                "pass_depth": 0.01,
+                "spindle_speed": 18000,
+                "stepover": 0.14999999999999999,
+                "xy_feed_rate": 36,
+                "z_feed_rate": 1
+            },
+            {
+                "millVersion": "V2",
+                "pass_depth": 0.01,
+                "spindle_speed": 18000,
+                "stepover": 0.14999999999999999,
+                "xy_feed_rate": 36,
+                "z_feed_rate": 1
+            },
+            {
+                "millVersion": "Pro",
+                "pass_depth": 0.01,
+                "spindle_speed": 18000,
+                "stepover": 0.14999999999999999,
+                "xy_feed_rate": 36,
+                "z_feed_rate": 1
+            }
+        ],
+        "profile": [
+            [
+                3.1749999999999998,
+                36.5,
+                0,
+                0
+            ],
+            [
+                3.1749999999999998,
+                2.5874999999999999,
+                0,
+                -1
+            ],
+            [
+                0.050000000000000003,
+                1.5874999999999999,
+                0,
+                1
+            ],
+            [
+                0.050000000000000003,
+                0,
+                0,
+                1
+            ]
+        ],
+        "uuid": "{888ff53c-0457-467e-b2d5-c2378f00af86}"
+    },
+    {
+        "conductive": "no",
+        "flutes": "0",
+        "group": "Endmill",
+        "name": "75um Polycarb MF",
+        "params": [
+            {
+                "millVersion": "V1",
+                "pass_depth": 0.050000000000000003,
+                "spindle_speed": 17000,
+                "stepover": 0.14999999999999999,
+                "xy_feed_rate": 76.5,
+                "z_feed_rate": 2
+            },
+            {
+                "millVersion": "V2",
+                "pass_depth": 0.050000000000000003,
+                "spindle_speed": 17000,
+                "stepover": 0.14999999999999999,
+                "xy_feed_rate": 76.5,
+                "z_feed_rate": 2
+            },
+            {
+                "millVersion": "Pro",
+                "pass_depth": 0.050000000000000003,
+                "spindle_speed": 17000,
+                "stepover": 0.14999999999999999,
+                "xy_feed_rate": 76.5,
+                "z_feed_rate": 2
+            }
+        ],
+        "profile": [
+            [
+                3.1749999999999998,
+                36.5,
+                0,
+                0
+            ],
+            [
+                3.1749999999999998,
+                2.5874999999999999,
+                0,
+                -1
+            ],
+            [
+                0.080000000000000002,
+                1.5874999999999999,
+                0,
+                1
+            ],
+            [
+                0.080000000000000002,
+                0,
+                0,
+                1
+            ]
+        ],
+        "uuid": "{d56480ec-011e-4b6f-b8f5-73aa4bb35213}"
+    },
+    {
+        "conductive": "no",
+        "flutes": "0",
+        "group": "Endmill",
+        "name": "100um Polycarb MF",
+        "params": [
+            {
+                "millVersion": "V1",
+                "pass_depth": 0.040000000000000001,
+                "spindle_speed": 16000,
+                "stepover": 0.14999999999999999,
+                "xy_feed_rate": 96,
+                "z_feed_rate": 4
+            },
+            {
+                "millVersion": "V2",
+                "pass_depth": 0.040000000000000001,
+                "spindle_speed": 16000,
+                "stepover": 0.14999999999999999,
+                "xy_feed_rate": 96,
+                "z_feed_rate": 4
+            },
+            {
+                "millVersion": "Pro",
+                "pass_depth": 0.040000000000000001,
+                "spindle_speed": 16000,
+                "stepover": 0.14999999999999999,
+                "xy_feed_rate": 96,
+                "z_feed_rate": 4
+            },
+            {
+                "millVersion": "Bantam",
+                "pass_depth": 0.040000000000000001,
+                "spindle_speed": 16000,
+                "stepover": 0.14999999999999999,
+                "xy_feed_rate": 96,
+                "z_feed_rate": 4
+            }
+        ],
+        "profile": [
+            [
+                3.1749999999999998,
+                36.5,
+                0,
+                0
+            ],
+            [
+                3.1749999999999998,
+                2.5874999999999999,
+                0,
+                -1
+            ],
+            [
+                0.10000000000000001,
+                1.5874999999999999,
+                0,
+                1
+            ],
+            [
+                0.10000000000000001,
+                0,
+                0,
+                1
+            ]
+        ],
+        "uuid": "{f5ebed64-7a7e-422f-92e2-443540a42320}"
+    },
+    {
+        "conductive": "no",
+        "flutes": "0",
+        "group": "Endmill",
+        "name": "150um Polycarb MF",
+        "params": [
+            {
+                "millVersion": "V1",
+                "pass_depth": 0.070000000000000007,
+                "spindle_speed": 15500,
+                "stepover": 0.14999999999999999,
+                "xy_feed_rate": 186,
+                "z_feed_rate": 7
+            },
+            {
+                "millVersion": "V2",
+                "pass_depth": 0.070000000000000007,
+                "spindle_speed": 15500,
+                "stepover": 0.14999999999999999,
+                "xy_feed_rate": 186,
+                "z_feed_rate": 7
+            },
+            {
+                "millVersion": "Pro",
+                "pass_depth": 0.070000000000000007,
+                "spindle_speed": 15500,
+                "stepover": 0.14999999999999999,
+                "xy_feed_rate": 186,
+                "z_feed_rate": 7
+            },
+            {
+                "millVersion": "Bantam",
+                "pass_depth": 0.070000000000000007,
+                "spindle_speed": 15500,
+                "stepover": 0.14999999999999999,
+                "xy_feed_rate": 186,
+                "z_feed_rate": 7
+            }
+        ],
+        "profile": [
+            [
+                3.1749999999999998,
+                36.5,
+                0,
+                0
+            ],
+            [
+                3.1749999999999998,
+                2.5874999999999999,
+                0,
+                -1
+            ],
+            [
+                0.79374999999999996,
+                1.5874999999999999,
+                0,
+                1
+            ],
+            [
+                0.79374999999999996,
+                0,
+                0,
+                1
+            ]
+        ],
+        "uuid": "{e1c9dfc2-f47f-4193-9873-3cc738d51aab}"
+    },
+    {
+        "conductive": "no",
+        "flutes": "0",
+        "group": "Endmill",
+        "name": "200um Polycarb MF",
+        "params": [
+            {
+                "millVersion": "V1",
+                "pass_depth": 0.050000000000000003,
+                "spindle_speed": 15000,
+                "stepover": 0.14999999999999999,
+                "xy_feed_rate": 240,
+                "z_feed_rate": 10
+            },
+            {
+                "millVersion": "V2",
+                "pass_depth": 0.050000000000000003,
+                "spindle_speed": 15000,
+                "stepover": 0.14999999999999999,
+                "xy_feed_rate": 240,
+                "z_feed_rate": 10
+            },
+            {
+                "millVersion": "Pro",
+                "pass_depth": 0.050000000000000003,
+                "spindle_speed": 15000,
+                "stepover": 0.14999999999999999,
+                "xy_feed_rate": 240,
+                "z_feed_rate": 10
+            }
+        ],
+        "profile": [
+            [
+                3.1749999999999998,
+                36.5,
+                0,
+                0
+            ],
+            [
+                3.1749999999999998,
+                2.5874999999999999,
+                0,
+                -1
+            ],
+            [
+                0.20000000000000001,
+                1.5874999999999999,
+                0,
+                1
+            ],
+            [
+                0.20000000000000001,
+                0,
+                0,
+                1
+            ]
+        ],
+        "uuid": "{aab7f6bf-60d5-49bb-be67-573055d0f0c0}"
+    },
+    {
+        "conductive": "no",
+        "flutes": "0",
+        "group": "Engraving",
+        "name": "Engraving Bit PolyCarb",
+        "params": [
+            {
+                "millVersion": "V1",
+                "pass_depth": 0.14999999999999999,
+                "spindle_speed": 16500,
+                "stepover": 0.14999999999999999,
+                "xy_feed_rate": 1000,
+                "z_feed_rate": 40
+            },
+            {
+                "millVersion": "V2",
+                "pass_depth": 0.14999999999999999,
+                "spindle_speed": 16500,
+                "stepover": 0.14999999999999999,
+                "xy_feed_rate": 1000,
+                "z_feed_rate": 40
+            },
+            {
+                "millVersion": "Pro",
+                "pass_depth": 0.14999999999999999,
+                "spindle_speed": 16500,
+                "stepover": 0.14999999999999999,
+                "xy_feed_rate": 1000,
+                "z_feed_rate": 40
+            }
+        ],
+        "profile": [
+            [
+                3.1749999999999998,
+                36.5,
+                0,
+                0
+            ],
+            [
+                3.1749999999999998,
+                17.573705415495567,
+                0,
+                1
+            ],
+            [
+                0.10000000000000001,
+                0,
+                0,
+                1
+            ]
+        ],
+        "uuid": "{e4774624-174b-4539-9ec3-04e38b7c5a7a}"
+    }
+]
